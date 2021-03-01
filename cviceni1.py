@@ -71,7 +71,7 @@ def dfs(start, end):
 def ids_step(start, end, limit):
     '''
     A variant of depth first search that only searches paths
-    which are shorther than the given limit.
+    which are shorter than the given limit.
     '''
     stack = [[start]]
 
