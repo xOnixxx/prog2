@@ -4,6 +4,8 @@ Cvičení jsou každý týden v pondělí (15:40).
 
 # Užitečné linky
 
+* [C# dokumentace](https://docs.microsoft.com/cs-cz/dotnet/csharp/)
+* [.NET browser](https://docs.microsoft.com/cs-cz/dotnet/api/)
 * [Visual Studio](https://visualstudio.microsoft.com/)
 * [ReCodEx](https://recodex.mff.cuni.cz/)
 * [ReCodEx dokumentace](https://github.com/ReCodEx/wiki/wiki/User-documentation)
