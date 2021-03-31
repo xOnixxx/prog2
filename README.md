@@ -34,7 +34,7 @@ Zápočtový test proběhne na posledním cvičení. Opravné termíny budou k d
 Do konce roku se se mnou domluvte na tématu zápočtového programu. Pro inspiraci můžete použít následující linky:
 
 * [Lenka Forstová](https://www.ms.mff.cuni.cz/~forstova/pgmZ/Zapoctaky.html)
-* [Martin Dvořák](https://www.ms.mff.cuni.cz/~dvoram30/zapoctak.html)
+* [Martin Dvořák](https://popelka.ms.mff.cuni.cz/~dvorakm/zapoctak.html)
 * [Martin Mareš](http://mj.ucw.cz/vyuka/zap/)
 * [Michal Žemlička](http://www.ms.mff.cuni.cz/~zemlicka/vyuka/NMIN101/namety/)
 
