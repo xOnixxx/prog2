@@ -12,7 +12,7 @@ namespace ConsoleApp1
     {
         private Dictionary<(int, int), int> memoized = new Dictionary<(int, int), int>();
 
-        public int MinAttempts(int floors, int eggs, bool writeFloor = false)
+        public int MinAttempts(int floors, int eggs)
         {
             if (floors == 0) return 0;
             if (eggs == 0) return int.MaxValue;
@@ -26,20 +26,10 @@ namespace ConsoleApp1
             }
 
             int result = int.MaxValue;
-            int bestFloor = -1;
             for (int floor = 1; floor <= floors; floor++)
             {
                 int candidate = Math.Max(MinAttempts(floor - 1, eggs - 1), MinAttempts(floors - floor, eggs));
-                if (candidate < result)
-                {
-                    result = candidate;
-                    bestFloor = floor;
-                }
-            }
-
-            if (writeFloor)
-            {
-                Console.WriteLine($"Best floor: {bestFloor}");
+                if (candidate < result) result = candidate;
             }
 
             result++;
