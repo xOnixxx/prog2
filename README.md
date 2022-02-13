@@ -46,5 +46,5 @@ Případně si můžeme vymyslet téma vlastní. Součástí zápočtového prog
 * **Programátorská dokumentace** - jak váš program funguje
 
 Zápočtový program mi pošlete mailem (vituscze *at* gmail *dot* com) a pokud
-bude vše v pořádku, tak se domluvíme na osobní prezentaci (obvykle v labu na
-Malé Straně).
+bude vše v pořádku, tak se domluvíme na prezentaci: online (Zoom, Discord) nebo
+osobně (obvykle v labu na Malé Straně).
