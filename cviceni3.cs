@@ -315,7 +315,7 @@ namespace ConsoleApp1
                         int x = int.Parse(input[0]);
                         int y = int.Parse(input[1]);
 
-                        if (x < 0 || x > 3 || y < 0 || y > 3)
+                        if (x < 0 || x >= 3 || y < 0 || y >= 3)
                         {
                             throw new Exception("Number is not in the specified range");
                         }
